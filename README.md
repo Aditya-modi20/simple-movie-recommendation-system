@@ -1,4 +1,3 @@
-# simple-movie-recommendation-system
 
 # Movie Recommendation System
 
@@ -6,12 +5,12 @@
 ## Features
 
     
-   ### Search for movies by name (case-insensitive)
-   ### Filter movies by release year
-   ### Display results in a table format
+ - Search for movies by name (case-insensitive)
+ - Filter movies by release year
+ - Display results in a table format
 
 ## Requirements
 
-  ###  Python 3.x
-  ###  pandas
-  ###  tabulate
+  - Python 3.x
+  -  pandas
+  -  tabulate
